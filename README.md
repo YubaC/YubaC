@@ -1,32 +1,19 @@
-# Welcome To Yuba Technology！ #
+# 欢迎来到——煜霸科技！ #
+# Welcome To -- Yuba Technology！ #
 
-![Yuba Technology Logo](logo_2.svg)
+<img width="300px" src="logo_2.svg">
 
-## Yuba Technology -- Providing technical support for over 100 years.
+**理论派**就是你什么都知道却做不出来。
+**Theory** is when you know everything but nothing works.
 
-What?You don't know us?
+**实践派**就是做出来了却没人知道为什么。
+**Practice** is when everything works but no one knows why.
 
-Try search us on Google!
+**在我们的团队里**，则是综合了理论与实践：
+**In our team**,theory and practice are combined:
 
-what? No result?
-
-How about Bing? Still not?
-
-That's no matter.Because everything above is fake. :-)
-
-No,no,no,not everything.*Yuba Technology* **is** real.And the *logo*.**It is** real,too.
-
-We just need some time to reach the goal "100 years".(About 95 years,maybe.) :-)
-
-----------
-
-## Introduction
-
-- 👋 Hi, We’re @Yuba Technology.
-- 👀 We’re interested in everything.
-- 🌱 We’re currently working on HTML5, CSS3 and JavaScript.
-- 💞️ We’re looking to collaborate on everything you like.
-- **📫 Contact us on Github!**
+什么都做不出来，也没人知道为什么。
+Nothing works and no one knows why.
 
 <!---
 YubaC/YubaC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
