@@ -6,7 +6,7 @@
 
 **Yuba Technology Logo**
 
-<img align="right" alt="Metrics-img" width="480px" title="Metrics-img" src="https://metrics.lecoq.io/YubaC?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai">
+<img align="right" alt="Sorry, something went wrong. Please refresh this page to see the data graph." width="480px" title="Metrics-img" src="https://metrics.lecoq.io/YubaC?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai">
 
 ### 自述
 
