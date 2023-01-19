@@ -1,12 +1,14 @@
-[YubaC(C君)](https://www.github.com/YubaC)@[Yuba Technology](https://www.github.com/Yuba-Technology). 煜霸科技的联合创始人之一。
+<img align="right" alt="Serve the people!" width="480px" title="Serve the people!" src="images/serve-the-people.webp"><br>
 
-![Metrics-img](https://metrics.lecoq.io/YubaC?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
-
-![](https://github-readme-stats.vercel.app/api?username=YubaC&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
+**[YubaC(C君)](https://www.github.com/YubaC)@[Yuba Technology](https://www.github.com/Yuba-Technology). 煜霸科技的联合创始人之一。** 
 
 <img width="200px" src="images/logo.svg">
 
 **Yuba Technology Logo**
+
+<img align="right" alt="Metrics-img" width="480px" title="Metrics-img" src="https://metrics.lecoq.io/YubaC?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai">
+
+### 自述
 
 自2017年以来，我和煜霸科技的同志们先后投身于单片机、无线电通信、Python、HTML、CSS和JavaScript的研究或开发。在2022年的前几个月里，我们开始了对于无障碍系统的探索。
 
