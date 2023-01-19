@@ -1,6 +1,6 @@
-<img align="right" alt="Serve the people!" width="480px" title="Serve the people!" src="images/serve-the-people.png#gh-light-mode-only"><br>
+<img align="right" alt="Serve the people!" width="480px" title="Serve the people!" src="images/serve-the-people.svg#gh-light-mode-only"><br>
 
-<img align="right" alt="Serve the people!" width="480px" title="Serve the people!" src="images/serve-the-people-night.png#gh-dark-mode-only"><br>
+<img align="right" alt="Serve the people!" width="480px" title="Serve the people!" src="images/serve-the-people-night.svg#gh-dark-mode-only"><br>
 
 **[YubaC(C君)](https://www.github.com/YubaC)@[Yuba Technology](https://www.github.com/Yuba-Technology). 煜霸科技的联合创始人之一。** 
 
