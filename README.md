@@ -2,7 +2,11 @@
 
 **[YubaC(C君)](https://www.github.com/YubaC)@[Yuba Technology](https://www.github.com/Yuba-Technology). 煜霸科技的联合创始人之一。** 
 
-<img width="200px" src="images/logo.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/logo.svg">
+  <img width="200px" alt="Yuba Technology logo" src="images/logo.svg">
+</picture>
 
 **Yuba Technology Logo**
 
