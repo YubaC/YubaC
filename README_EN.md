@@ -4,7 +4,7 @@
 
 [简体中文](./README.md)
 
-**[YubaC(C-Jun)](https://www.github.com/YubaC)@[Yuba Technology](https://www.github.com/Yuba-Technology). One of the co-founders of Yuba Technology.**
+**[YubaC(Mr.C)](https://www.github.com/YubaC)@[Yuba Technology](https://www.github.com/Yuba-Technology). One of the co-founders of Yuba Technology.**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/logo-night.svg">
