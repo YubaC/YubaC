@@ -1,4 +1,4 @@
-<img align="right" alt="Serve the people!" width="480px" title="Serve the people!" src="images/serve-the-people.svg#gh-light-mode-only"><br>
+<!-- <img align="right" alt="Serve the people!" width="480px" title="Serve the people!" src="images/serve-the-people.svg#gh-light-mode-only"><br> -->
 
 <img align="right" alt="Serve the people!" width="480px" title="Serve the people!" src="images/serve-the-people-night.svg#gh-dark-mode-only"><br>
 
